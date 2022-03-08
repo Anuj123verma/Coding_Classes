@@ -28,3 +28,11 @@ Let's write the code for binary search
 the array is sorted it means array is in increasing order
 int low 
 int high
+
+one question is sparse search
+string_array = {"for", "geeks", "", "", "", "", "ide", "practice", "", "", "", "quiz"}
+              ml                                   m                                   ml
+"geeks" -> I can go linear O(n)
+the best thing I can do by going with binary search
+
+{"","","","",""}

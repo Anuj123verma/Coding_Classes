@@ -34,8 +34,10 @@ public class search {
 }
 
 /*
+ * 3
+ * return the index of element just greater than or equal to 3
+ * 1 2 4 5
  * 2
- * 1 2 3 4 5
  * 2
  * 1
  * l h l h
