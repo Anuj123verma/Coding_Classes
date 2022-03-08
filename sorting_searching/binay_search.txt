@@ -23,3 +23,8 @@ n/2^k = 1
 klog2 = logn
 k = logn/log2
 k = lognbase2 
+
+Let's write the code for binary search
+the array is sorted it means array is in increasing order
+int low 
+int high
