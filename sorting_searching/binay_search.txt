@@ -69,3 +69,22 @@ Q) (0 1 1 2 3 3 4 5) 6 (6 6)
    lo -> 10
    ans = lo - fo + 1 -> 10 - 8 +1 => 3
 I want to know the count of 6 -> 3
+
+Q) {"a", "aba", "ba"}
+   x+y or y+x
+   I can compare these two values x+y < y+x
+   so I will put that there in sorting
+
+   a  aba          "ba"
+   ["a" ,"aba"]
+   a+ba or ba+a
+
+   "a", "aba"+"ba" --> ababa
+         "ba"+"aba" --> baaba
+   "a", "aba" , "ba"
+    aababa  -> smallest string that we can get 
+ 
+ this array must be modified in such a way that it can give the smallest string after concatination
+ array of string that we have 
+ so we need to find the samllest string after concatinating all the strings 
+ so how we can do that 
