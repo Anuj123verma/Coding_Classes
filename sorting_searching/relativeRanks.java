@@ -1,5 +1,7 @@
 package sorting_searching;
 
+import java.util.Arrays;
+
 public class relativeRanks {
     public String[] findRelativeRanks(int[] score) {
         int n = score.length;
